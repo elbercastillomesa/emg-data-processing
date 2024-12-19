@@ -1,0 +1,22 @@
+# Flask dependencies
+*.egg
+*.egg-info
+dist
+build
+.tox
+.nox
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+*.spec
+local_settings.py
+db.sqlite
+db.sqlite-journal
+instance
+.mypy_cache
+.pytest_cache
+
+# PyCharm files
+*.iml
+.idea
